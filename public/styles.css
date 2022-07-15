@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: "Montserrat";
+  background-color: #F0EBE3;
+  margin: 0;
+}
+
+h1 {
+  color: white;
+}
+
+.navbar {
+  background-color: #7D9D9C;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+.big-heading {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.top-container {
+  background-color: #7D9D9C;
+  padding: 3% 5%;
+  margin: 0 0 7% 0;
+}
+
+.middle-container {
+}
+
+.fa-brands {
+  margin: 3%;
+}
+
+.fa-brands:hover {
+  color: #7D9D9C;
+}
